@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1567113237 source:c:\users\dykeiichi\desktop\onetimepad\src\main.cpp
+	<iostream>
+	<Key.h>
+	<fstream>
+	<stdlib.h>
+	<time.h>
+	<stdio.h>
+	<windows.h>
+
+1567112445 c:\users\dykeiichi\desktop\onetimepad\include\key.h
+	<string>
+
+1567113209 source:c:\users\dykeiichi\desktop\onetimepad\src\key.cpp
+	"Key.h"
+	<iostream>
+
